@@ -30,5 +30,3 @@
 ## 
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LuannRuffo&hide_progress=true&theme=tokyonight&hide_progress=false&custom_title=Top%20%Linguagens)
-
-![Top Linguagens](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{LuannRuffo}1212%2Fhit-counter)
